@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e4f148f-089f-47fc-b4db-4bdf9ce67c10" name="Changes" comment="" />
+    <list default="true" id="4e4f148f-089f-47fc-b4db-4bdf9ce67c10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/H5/toets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H6/Toets foutafhandeling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H6/oefening 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H6/oefening 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H6/oefening 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H6/toets oefening2 foutafhandeling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H6/voorbeeld 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H7/oefening 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H5/blad.steen.schaar.py" beforeDir="false" afterPath="$PROJECT_DIR$/H5/blad.steen.schaar.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,24 +24,58 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Joris008&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Joris008/Code_5ICW_blad_steen_schaar.git&quot;,
+    &quot;accountId&quot;: &quot;114f4fe6-69ed-494f-a4a0-0fcc09c7f0ff&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2sIilrS4GdHe4Bzw0KGWJwluXHz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Bestanden_lezen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Toets foutafhandeling.executor&quot;: &quot;Run&quot;,
     &quot;Python.blad.steen.schaar.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;Python.oefening 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oefening 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oefening 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.toets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voorbeeld 1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/25777/OneDrive - Technisch instituut Sint-Paulus/1. Algoritmiek/Code 5ICW&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\25777\OneDrive - Technisch instituut Sint-Paulus\1. Algoritmiek\Code 5ICW" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,5 +93,27 @@
       <updated>1738149644019</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/H6/toets oefening2 foutafhandeling.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
